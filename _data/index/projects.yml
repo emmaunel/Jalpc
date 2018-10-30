@@ -8,12 +8,12 @@
   img: /static/assets/img/landing/jekyll.png
   desc: This is a Social App for Developers to interact with other users through messages and sharing projects.
 
-- name: Python
+- name: Promptr
   i18n: cpython
-  gh_user: python
-  repo: cpython
+  gh_user: emmaunel
+  repo: EasyTeleprompter
   img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+  desc: Promptr is a pocket size teleprompter to practice your speeches, scripts and so on.
 
 - name: Google
   i18n: google
