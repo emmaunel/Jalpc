@@ -3,7 +3,7 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Devfolio
   i18n: jalpc
-  gh_user: emmaunel
+  gh_user: Madonahs
   repo: Devsfolio
   img: /static/assets/img/landing/jekyll.png
   desc: This is a Social App for Developers to interact with other users through messages and sharing projects.
